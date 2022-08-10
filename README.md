@@ -1,4 +1,17 @@
-### O projeto em questão realiza:
-- O cadastro de candidados
-- Faz a leitura de todos os candidatos armazenados na tabela: candidatos, no banco de dados MySql, usando como filtro o ano atual(2022), e trazendo a lista em uma tabela logo abaixo.
-- Realiza a edição e a exclusão desses candidatos, enviando requisições Ajax(via Jquery) para o controlador, que por sua vez, se comunica com o banco de dados para efetivar as ações, e retorna com uma mensagem na tela de confirmação.
+<h3>Descrição do Projeto:</h3>
+- Cadastro de candidatos.<br>
+- Leitura de todos os candidatos que estão cadastrados no banco de dados.<br>
+- Edição e exclusão de candidatos integrado a tela de consulta.
+<hr>
+
+<h3>Descrição de uso:</h3>
+- Insira o ano atual na barra de pesquisa.
+<hr>
+
+<h3>Descrição de tecnologias utilizadas:</h3>
+Front-End:</strong> HTML, CSS, Boostrap, JavaScript, Ajax com JQuery.<br>
+Back-end: PHP/Laravel.<br>
+Banco de dados: MySql.<br>
+<hr>
+<h3>Em breve vídeo com demonstração de uso!</h3>
+
