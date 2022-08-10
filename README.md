@@ -5,7 +5,7 @@
 <hr>
 
 <h3>Descrição de uso:</h3>
-- Clique no botão 'Cadastrar' para ter acesso ao formulário de cadastro, preencha e clique em 'Enviar'.
+- Clique no botão 'Cadastrar' para ter acesso ao formulário de cadastro, preencha e clique em 'Enviar'.<br>
 - Insira o ano atual na barra de pesquisa para consultas, edições e exclusões.
 <hr>
 
