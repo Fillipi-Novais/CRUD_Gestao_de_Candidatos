@@ -5,7 +5,8 @@
 <hr>
 
 <h3>Descrição de uso:</h3>
-- Insira o ano atual na barra de pesquisa.
+- Clique no botão 'Cadastrar' para ter acesso ao formulário de cadastro, preencha e clique em 'Enviar'.
+- Insira o ano atual na barra de pesquisa para consultas, edições e exclusões.
 <hr>
 
 <h3>Descrição de tecnologias utilizadas:</h3>
